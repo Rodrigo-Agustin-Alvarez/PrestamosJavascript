@@ -1,0 +1,66 @@
+/* Colores a usar #62C5E3 , #E3A262, #FFC387 , #966432 */
+
+/* @import url("https://fonts.googleapis.com");
+@import url("https://fonts.gstatic.com");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Tiro+Devanagari+Hindi&display=swap"); */
+header{
+    margin-top: 5em;
+}
+h1{
+    color: #057799;
+    font-family: "Roboto" , sans-serif;
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+}
+.divsolicita{
+    margin-top: 8em;
+    display: flex;
+    justify-content: center;
+}
+h2{
+    font-family: "Roboto" , sans-serif;
+    font-size: 25px;
+    color: #057799;
+}
+
+a{
+    text-decoration: none;
+}
+
+.formularioDePrestamo{
+    width: 50%;
+    margin: auto;
+    margin-top: 5em;
+}
+.form-check-label a{
+    text-decoration: none;
+    color: black;
+}
+.resultadodelprestamo{
+    width: 50%;
+    margin: auto;
+    margin-top: 5em;
+}
+.texto{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    background-color: #057799;
+    margin-top: 5em;
+    height: 5em;
+}
+footer div{
+    display: grid;
+    text-align: center;
+
+
+}
+.pfooter{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 30px;
+
+}
